@@ -19,8 +19,8 @@ class Form {
   display(){
     // this.title.html("Welcome To Your Surprise !");
     // this.title.position(displayWidth/2 - 150, 0);
-    this.input.position(displayWidth/2 - 135, 350);
-    this.button.position(displayWidth/2 + 53, 350);
+    this.input.position(displayWidth/2 - 135, 450);
+    this.button.position(displayWidth/2 + 53, 450);
     this.button2.hide();
     this.button2.position(displayWidth - 150, displayHeight - 150);
     
